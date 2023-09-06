@@ -1,5 +1,5 @@
 # Wabbajack-AutoClickDownload
-A simple autoclicker made to be used while downloading large modpacks from Nexus with Wabbajack.
+A simple autoclicker to be used while downloading large modpacks from Nexus with Wabbajack.
 
 AutoHotKey is necessary.
 
