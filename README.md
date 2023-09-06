@@ -14,5 +14,8 @@ It is recommended to tweak the Sleep values, what works for me might not work fo
 Controls:
 
 F1 - Runs the code.
+
 F2 - Reloads the app and stops the running code, press F1 again to start it
+
 F3 - Closes the app completely
+
