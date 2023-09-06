@@ -10,3 +10,9 @@ Instructions:
 2 - Edit Wabbajack.ahk and replace "E:\Mods\slow-download.png" with your own directory and the name of the screenshot you took.
 
 It is recommended to tweak the Sleep values, what works for me might not work for you.
+
+Controls:
+
+F1 - Runs the code.
+F2 - Reloads the app and stops the running code, press F1 again to start it
+F3 - Closes the app completely
